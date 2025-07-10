@@ -76,3 +76,8 @@ Visit: http://localhost:3000
 
 💡 Make sure you have Node.js and npm installed on your system.
 
+
+## 🔗 Live Demo  
+[View the hosted app here](https://tranquil-flan-a5a21e.netlify.app/)
+
+
